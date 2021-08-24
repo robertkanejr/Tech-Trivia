@@ -19,7 +19,7 @@ export enum Difficulty {
 
 export const fetchQuizQuestions = async (amount: number, difficulty: Difficulty) => {
     const endpoint =
-        `https://radiant-shelf-29099.herokuapp.com/https://opentdb.com/api.php?amount=${amount}&category=17&difficulty=${difficulty}&type=multiple`;
+        `https://radiant-shelf-29099.herokuapp.com/https://opentdb.com/api.php?amount=${amount}&category=18&difficulty=${difficulty}&type=multiple`;
     const data = await (await fetch(endpoint)).json();
     return data.results.map((question: Question) => (
         {
