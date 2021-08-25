@@ -33,7 +33,7 @@ button {
     height: 40px;
     margin: 5px 0;
     border-radius 10px;
-    background: #fff;
+    background: linear-gradient(180deg, #fff, #ffcc91);
     background: ${({ correct, userClicked }) =>
         correct
             ? 'linear-gradient(90deg, #56ffa4, #59bc86)'

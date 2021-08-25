@@ -31,13 +31,17 @@ align-items: center;
 }
 
 .score {
-    color: #fff;
+    color: #ffcc91;
     font-size: 2rem;
-    margin: 0;
+    font-family: 'Press Start 2p';
+    text-shadow: 5px 2px black;
+    margin-top: 0;
+    -webkit-text-stroke-width: 2px;
+    -webkit-text-stroke-color: black;
 }
 
 h1 {
-    font-family: Fascinate Inline, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-family: 'Bungee Shade', Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     background-image: linear-gradient(180deg, #fff, #61ffef);
     background-size: 100%;
     background-clip: text;
