@@ -1,5 +1,5 @@
 import styled, { createGlobalStyle } from 'styled-components';
-import BGImage from './images/computer-chip.jpg';
+import BGImage from './images/illuminated-chip.jpg';
 
 
 export const GlobalStyle = createGlobalStyle`
@@ -18,7 +18,7 @@ justify-content: center;
 
 *{
     box-sizing: border-box;
-    font-family: 'Catamaran, sans-serif;
+    font-family: 'Catamaran', sans-serif;
 }`;
 
 export const Wrapper = styled.div`
@@ -38,7 +38,7 @@ align-items: center;
 
 h1 {
     font-family: Fascinate Inline, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    background-image: linear-gradient(90deg, #41ba94, #e39713);
+    background-image: linear-gradient(180deg, #fff, #61ffef);
     background-size: 100%;
     background-clip: text;
     -webkit-background-clip: text;
@@ -54,7 +54,7 @@ h1 {
 
 .start, .next {
     cursor: pointer;
-    background: linear-gradient(180deg, #fff, #ffcc91)
+    background: linear-gradient(180deg, #fff, #ffcc91);
     border: 2px, solid #d38558;
     box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.25);
     border-radius: 10px;
