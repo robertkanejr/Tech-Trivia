@@ -28,6 +28,7 @@ align-items: center;
 
 > p {
     color: #fff;
+    text-shadow: 5px 2px black;
 }
 
 .score {
