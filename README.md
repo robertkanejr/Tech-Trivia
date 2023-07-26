@@ -1,4 +1,4 @@
-## **Tech Trivia**
+<h1>**Tech Trivia**</h1>
 
 A trivia game about computers, coding languages, and computer history. 
 
@@ -12,13 +12,13 @@ There are 20 questions total, each one is randomly generated. Once you select an
 
 Click **[here](https://tech-trivia-rck.netlify.app/)** to view the live site.
 
-## **Screenshots**
+<h2>**Screenshots**</h2>
   
-**Correct Answer:**<br> 
+<h3>**Correct Answer:**</h3><br> 
 <br>
 <img width="727" alt="Tech Trivia Thumbnail" src="https://github.com/robertkanejr/react-quiz/assets/72464392/014c4bbf-53e1-4b71-bdce-a70b5863319b">
 <br>
 <br> 
-**Wrong Answer:**<br>  
+<h3>**Wrong Answer:**</h3><br>  
 <br>
 <img width="707" alt="Tech Trivia Thumbnail 2" src="https://github.com/robertkanejr/react-quiz/assets/72464392/6423584d-2aa8-407e-8cf1-4c5e9486d463">
