@@ -1,4 +1,4 @@
-##**Tech Trivia**
+## **Tech Trivia**
 
 A trivia game about computers, coding languages, and computer history. 
 
@@ -12,7 +12,7 @@ There are 20 questions total, each one is randomly generated. Once you select an
 
 Click **[here](https://tech-trivia-rck.netlify.app/)** to view the live site.
 
-##**Screenshots**
+## **Screenshots**
   
 **Correct Answer:**<br> 
 <br>
